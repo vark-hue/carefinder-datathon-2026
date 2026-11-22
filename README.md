@@ -8,7 +8,6 @@ CareFinder treats every field in the Virtue Foundation's 10,088 Indian facility 
 
 📊 **Slides:** [`slides/CareFinder_Datathon_2026.pdf`](slides/CareFinder_Datathon_2026.pdf) · [`.pptx`](slides/CareFinder_Datathon_2026.pptx)
 📓 **Notebook:** [`notebooks/CareFinder_notebook.py`](notebooks/CareFinder_notebook.py) (Databricks source format)
-🎬 **Video:** 3-minute walkthrough (see the submission; script in [`docs/video_script.md`](docs/video_script.md))
 
 ---
 
@@ -52,7 +51,6 @@ Data: Virtue Foundation facilities · India Post PIN-code directory · NFHS-5 di
 ```
 ├── notebooks/CareFinder_notebook.py   # full pipeline, Databricks source format
 ├── slides/                            # deck (.pptx, .pdf) and the script that builds it
-├── docs/video_script.md               # 3-minute demo script
 └── docs/figures/                      # charts used in the deck
 ```
 
